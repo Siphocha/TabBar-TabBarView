@@ -16,4 +16,4 @@ indicatorColor: Useful for colour under tab indicator
 
 indicatorWeight: Useful for putting "thickness" on indicator colour
 
-tabs: Literally exactly for stating whats a tab adn where. Need it for tab declaration.
+tabs: Literally exactly for representing individual tabs.
