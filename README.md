@@ -11,6 +11,9 @@ For clarification. TabBar and it's subsequent TabBarView are Layoutwidgets. As s
 their attributes are in the realm of aesthetics and not necessarily logical progression of the app but to add to the apps feel.
 
 Examples of which are:
+
 indicatorColor: Useful for colour under tab indicator
+
 indicatorWeight: Useful for putting "thickness" on indicator colour
+
 tabs: Literally exactly for stating whats a tab adn where. Need it for tab declaration.
